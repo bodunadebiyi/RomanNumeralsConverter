@@ -1,0 +1,14 @@
+{
+  "name": "optiopay",
+  "version": "1.0.0",
+  "description": "Roman Numerals Utility Helper Function",
+  "main": "RomanNumerals.js",
+  "author": "Bodunde",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
