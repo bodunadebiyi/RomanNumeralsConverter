@@ -22,5 +22,11 @@ console.log(RomanNumerals.fromRoman('CD'))
 console.log(RomanNumerals.fromRoman('CDXCI'))
 // return 491
 ```
+
+## Constraints
+- Input value to toRoman function must be an integer
+- Input value to toRoman function must be between 1 - 3999
+- Input value to fromRoman function must be a valid roman numeral
+ 
 ## Test
 `yarn test`
